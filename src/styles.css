@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background: rgb(97,226,184);
+    background: linear-gradient(180deg, rgba(97,226,184,1) 0%, rgba(0,91,59,1) 80%)no-repeat fixed center;
+}
+.container {
+    align-items: center;
+    background: rgb(97,226,184);
+    background: linear-gradient(180deg, rgba(97,226,184,1) 0%, rgba(0,91,59,1) 80%)no-repeat fixed center;
+    color: #000;
+}
+
+.modal-content rounded-5 shadow {
+    border-radius: 15px;
+    background-color: mintcream;
+}
+
+#signup {
+    background-color: #0f6e4b;
+}
+
+#facebook:hover {
+    background-color: #183efa;
+    border: 1px solid #183efa;
+}
+
+#twitter:hover {
+    background-color: #00bfff;
+    border: 1px solid #00bfff;
+}
+
+#git-hub:hover {
+    background-color: #711490;
+    border: 1px solid #711490;
+}
